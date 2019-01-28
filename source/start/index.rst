@@ -243,3 +243,4 @@ Learning Resources
 ------------------
 
 * `Programming Community Curated Resources for learning NGINX <https://hackr.io/tutorials/learn-nginx>`_
+* `Best NGINX Tutorials Recommended by Experts <http://letsfindcourse.com/nginx>`_
